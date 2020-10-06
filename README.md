@@ -1,5 +1,6 @@
-# webapi.netcore
-just simple web api in .net core 3.1
+# webapi.netcore and Entity Framework Core
+just simple web api in .net core 3.1 , sample data save on SQL server
+with Entity Framework Core
 
 # Get all user 
 https://localhost:44354/api/users
