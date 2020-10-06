@@ -5,7 +5,8 @@ just simple web api in .net core 3.1
 https://localhost:44354/api/users
 
 # Find User By Name 
-you have to change "nameserach" instead of yor name to find
+To Find Your user base name ,you have to change "nameserach" instead of your name to find
+if we have to similar name in db, the first user base your name return
 
 https://localhost:44354/api/users/find?name=namesearch
 
