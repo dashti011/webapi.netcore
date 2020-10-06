@@ -17,6 +17,6 @@ https://localhost:44354/api/users/find?name=lima
 Default Names initial in DataBase is =Lima , Hassan , iliya
 
 # Inser new user Base Name And Age
-in this url the parameters for new user is "namr" and "age"
-
+in this url the parameters for new user is "name" and "age"
+you have to sende the parameters on url
 https://localhost:44354/api/users/set/?Name=fereshteh&age=46
